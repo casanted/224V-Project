@@ -1,0 +1,18 @@
+Current query: None
+New conversation:
+MovieBot: Hey, what kind of movie would you like?
+User: I like horror movies.
+Updated query: Include (horror)
+---
+Current query: Include (horror) Exclude (gore)
+New conversation:
+MovieBot: I see. So you don’t like too much graphic violence. How about psychological horrors? Like The Silence of the Lamb?
+User: Ummm that’s a little bit too realistic. I don’t like criminal themes.
+Updated query: Include (horror) Exclude (gore, criminal)
+---
+Current query: Include (Christmas) Include (after 2010) Exclude (children protagonist)
+New conversation:
+MovieBot: How about A Christmas Carol from 2012? It stays true to the original feel of the Dickens story, but a lot creepier. It’s a person visited by three Christmas spirits from the past, present, and future.
+User: Actually, I changed my mind. I want a movie released between 2000 and 2010.
+Updated query: Include (Christmas) Include (between 2000 and 2010) Exclude (children protagonist)
+---

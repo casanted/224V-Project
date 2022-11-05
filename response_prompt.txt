@@ -1,0 +1,20 @@
+>Dialog history: None
+>Current query: None
+>Response: Hey, what kind of movie would you like?
+---
+>Dialog history
+MovieBot: Hey, what kind of movie would you like?
+User: I like horror movies.
+MovieBot: Ha, I see. Who doesn’t like horror movies! Did you watch Willy’s Wonderland? It just came out in 2021. The story is the famous Nicolas Cage in an abandoned family center just like the one in Five Nights at Freddy’s. Kinda straight-forward and not a lot of surprise, but quite fun for entertainment.
+User: Ah, I watched that one already. I like that it’s not too bloody.
+>Current query: Include (horror) Exclude (gore)
+>Response: I see. So you don’t like too much graphic violence. How about psychological horrors? Like The Silence of the Lamb?
+---
+>Dialog history
+MovieBot: Here’s one I found for you. The Christmas Chronicles. It’s the story of two children sneaking a ride on Santa’s sleign and helping Santa deliver his toys. The kids’ parents are starred by Kurt Russell and Goldie Hawn who are a real-life couple!
+User: I don’t want stories about kids.
+MovieBot: How about A Christmas Carol from 2012? It stays true to the original feel of the Dickens story, but a lot creepier. It’s a person visited by three Christmas spirits from the past, present, and future.
+User: Actually, I changed my mind. I want a movie released between 2000 and 2010.
+>Current query: Include (Christmas) Include (between 2000 and 2010) Exclude (children protagonist)
+>Response: For sure. Then I’d recommend The Holiday. It’s from the year 2006 and it’s two women swapping homes to find love during a Christmas vacation. A romantic comedy with very strong acting and a sweet story.
+---
